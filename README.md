@@ -7,6 +7,7 @@ Este repositorio contiene mis proyectos de datos enfocados en:
 - **Fuga de clientes**: predecir churn en empresas.  
 - **Ventas**: predicción de ventas diarias.  
 - **Predicciones**: resultados de partidos.  
+- **Detección de fraudes**: detección de fraude bancario
 
 Cada proyecto está pensado como un caso de **negocio realista**, con flujo de trabajo completo: EDA, feature engineering, modelado y evaluación.
 
@@ -22,13 +23,15 @@ data-projects/
 ├── 02 - análisis de reseñas/          
 ├── 03 - fuga de clientes/             
 ├── 04 - predicción de ventas/         
-└── 05 - predicción de aprtidos/       
+├── 05 - predicción de aprtidos/   
+├── 06 - deteccion de fraudes/
+└── 07 - premier league predictor/
 
 ```
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
 | Proyecto                             | Tema principal                         | Enfoque de negocio |
 |--------------------------------------|----------------------------------------|--------------------|
@@ -37,3 +40,5 @@ data-projects/
 | Predicción de ventas en restaurantes | Ventas + predicción                    | Optimizar aprovisionamiento |
 | Resultado de partidos de fútbol      | Predicción de resultados               | Planificación táctica / apuestas |
 | Análisis de reseñas de restaurantes  | Restaurantes                           | Mejorar carta y servicio |
+| Detección de fraudes                 | Detección                              | Prevenir fraudes |
+| Premier league predictor             | Deportes                               | Predicción de resultados |
