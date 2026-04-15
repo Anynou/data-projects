@@ -212,3 +212,4 @@ data-projects_env/*
 *.sqlite
 .DS_Store
 *.xlsx
+*.joblib
