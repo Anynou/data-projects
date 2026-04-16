@@ -25,7 +25,8 @@ data-projects/
 ├── 04 - predicción de ventas/         
 ├── 05 - predicción de aprtidos/   
 ├── 06 - deteccion de fraudes/
-└── 07 - premier league predictor/
+├── 07 - premier league predictor/
+└── 08 - fuga suscriptores/
 
 ```
 
@@ -42,3 +43,4 @@ data-projects/
 | Análisis de reseñas de restaurantes  | Restaurantes                           | Mejorar carta y servicio |
 | Detección de fraudes                 | Detección                              | Prevenir fraudes |
 | Premier league predictor             | Deportes                               | Predicción de resultados |
+| Fuga suscriptores                    | Fuga de suscriptores                   | Detectar posibles bajas en el servicio |
